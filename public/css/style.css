@@ -1,0 +1,19 @@
+body {
+    background-color: #eceff1;
+    font-family: 'Source Code Pro', monospace;
+}
+
+h1, h5 {
+    color:aqua
+}
+
+h3 {
+    color: tomato;
+}
+
+p, label {
+    color: #fff;
+}
+.card {
+    background: currentColor;
+}
